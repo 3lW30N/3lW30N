@@ -47,11 +47,11 @@ I joined my school's Junior Enterprise as a Vice Responsible for the Systems Inf
 ### [Metamorpion](https://github.com/3lW30N/metamorpion)
 **Ultimate Tic Tac Toe AI Solver**
 
-At the conclusion of my preparatory classes, I developed an AI-powered program to solve the Ultimate Tic Tac Toe game (also known as Metamorpion). This project combines classical game theory with modern AI techniques to create an intelligent opponent that can strategize and adapt during gameplay.
+At the conclusion of my preparatory classes, I developed an AI-powered program to solve the Ultimate Tic Tac Toe game (also known as Metamorpion). This project combines classical game theory with AI techniques to create an intelligent opponent that can strategize and adapt during gameplay.
 
-- **Technologies used**: Python, AI algorithms
+- **Technologies used**: OCaml and AI algorithms
 - **Key features**: Strategic depth analysis, optimal move calculation, interactive gameplay
-- **Achievements**: Successfully implemented multiple AI models to solve this complex game variant
+- **Achievements**: Implemented two AI algorithms to solve this game variant
 
 ### [EPF Chatbot](https://github.com/epf-org/chatbot)
 **Intelligent Conversational Assistant**
