@@ -53,7 +53,7 @@ At the conclusion of my preparatory classes, I developed an AI-powered program t
 - **Key features**: Strategic depth analysis, optimal move calculation, interactive gameplay
 - **Achievements**: Implemented two AI algorithms to solve this game variant
 
-### [Legal Chatbot]([https://github.com/epf-org/chatbot](https://github.com/epf-projet-chatbot))
+### [Legal Chatbot]([https://github.com/epf-projet-chatbot])
 **Intelligent Conversational Assistant**
 
 Founded and led the development of a sophisticated chatbot project under the EPF organization I created. This ongoing project aims to enhance user interactions through natural language processing and contextual understanding.
