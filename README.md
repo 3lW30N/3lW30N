@@ -53,19 +53,19 @@ At the conclusion of my preparatory classes, I developed an AI-powered program t
 - **Key features**: Strategic depth analysis, optimal move calculation, interactive gameplay
 - **Achievements**: Implemented two AI algorithms to solve this game variant
 
-### [EPF Chatbot](https://github.com/epf-org/chatbot)
+### [Legal Chatbot]([https://github.com/epf-org/chatbot](https://github.com/epf-projet-chatbot))
 **Intelligent Conversational Assistant**
 
 Founded and led the development of a sophisticated chatbot project under the EPF organization I created. This ongoing project aims to enhance user interactions through natural language processing and contextual understanding.
 
-- **Technologies used**: TypeScript, Express.js, NLP libraries
-- **Key features**: Contextual responses, multi-domain knowledge base, integration capabilities
+- **Technologies used**: TypeScript, Express.js, Python, HuggingFace transformers
+- **Key features**: Retrieval augmented generation, multi-domain knowledge base, integration capabilities
 - **Status**: Active development (2025)
 
 ### Junior Enterprise Web Development
 **Internal Business Applications**
 
-I contribute to developing and maintaining internal websites for a junior enterprise, helping to create professional tools that enhance organizational efficiency and service delivery.
+I contribute to developing and maintaining internal websites for my junior enterprise, helping to create professional tools that enhance organizational efficiency and service delivery.
 
 - **Technologies used**: JavaScript, React, Express, Database systems
 - **Key features**: User management, project tracking, client portal interfaces
@@ -77,7 +77,6 @@ I contribute to developing and maintaining internal websites for a junior enterp
   <a href="https://github.com/3lW30N"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://gitlab.com/3IW30N"><img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
   <a href="https://www.linkedin.com/in/noemie-rialland"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- Add other social media links as needed -->
 </div>
 
 ## 📊 GitHub Stats
