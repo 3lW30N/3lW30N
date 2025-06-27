@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=3lW30N" alt="Profile views">
   <img src="https://img.shields.io/badge/Status-Engineering%20Student-brightgreen" alt="Status: Engineering Student">
-  <img src="https://img.shields.io/badge/Focus-Functional%20Programming%20%26%20Web%20Dev-blue" alt="Focus: Functional Programming & DevOps">
+  <img src="https://img.shields.io/badge/Focus-Functional%20Programming%20%26%20DevOps-blue" alt="Focus: Functional Programming & DevOps">
   <img src="https://img.shields.io/badge/Last%20Updated-May%2031%2C%202025-lightgrey" alt="Last Updated: May 31, 2025">
 </div>
 
