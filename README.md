@@ -11,7 +11,7 @@
 
 I'm an engineering student with a strong foundation in both computer science theory and practical development. After completing 2 years of intensive math and computer science preparatory classes, I've been expanding my skills both through formal education and self-directed learning.
 
-- 🎓 Currently pursuing an engineering degree (EPF) — major **Systèmes Numériques Intelligents**
+- 🎓 Currently pursuing an engineering degree (EPF) — major **Systèmes Numériques Intelligents** (Intelligent Numeric Systems)
 - 💻 Passionate about functional programming (especially OCaml!)
 - 🧪 Interested in QA automation, DevOps practices, and making complex systems more observable
 - 🚀 Always looking to combine theoretical concepts with practical applications
@@ -97,7 +97,6 @@ Founded and led the development of a sophisticated chatbot project under the EPF
 
 - **Technologies used**: TypeScript, Express.js, Python, HuggingFace transformers
 - **Key features**: Retrieval augmented generation, multi-domain knowledge base, integration capabilities
-- **Status**: Active development (2025)
 
 ### Junior Enterprise Web Development
 **Internal Business Applications**
